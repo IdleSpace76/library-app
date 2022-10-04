@@ -1,5 +1,6 @@
 ### TestProj1 - e-library <br>
 CRUD Spring проект с паттерном DAO через jdbcTemplate + postgresql + отображение через ThymeLeaf.<br>
+SQL скрипт для инициализации таблиц лежитв корневой папке проекта.<br>
 ***localhost:8080/people*** - начальная страница списка людей.<br>
 ***localhost:8080/books*** - начальная страница списка книг.
 <hr>
